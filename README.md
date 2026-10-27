@@ -31,6 +31,7 @@ Java solutions for LeetCode 75.
 | [0283-move-zeroes](https://github.com/srinanty123/LeetCode-Java/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/srinanty123/LeetCode-Java/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/srinanty123/LeetCode-Java/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/srinanty123/LeetCode-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/srinanty123/LeetCode-Java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -50,4 +51,8 @@ Java solutions for LeetCode 75.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/srinanty123/LeetCode-Java/tree/main/0392-is-subsequence/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/srinanty123/LeetCode-Java/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
